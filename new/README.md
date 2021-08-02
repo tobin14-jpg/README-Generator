@@ -1,7 +1,7 @@
 
     
 <h1 align='center'>README-Generator</h1>
-![badge](https://img.shields.io/badge/license-undefined-yellow)
+badge
 
 ## Description
 
