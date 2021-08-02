@@ -1,7 +1,7 @@
 
     
 <h1 align='center'>README-Generator</h1>
-badge
+
 
 ## Description
 
