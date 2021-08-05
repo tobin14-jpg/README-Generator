@@ -22,12 +22,9 @@
 ## Description
   
 🔍 A node.js application that uses user input from inquirer to populate a README.md file for user repository. The README.md file is created in the `new` directory and can be found [here](./new/README.md)  
+
   
-💻 Below is a gif showing the functionality of the application:
-  
-![README Generator](Utils/README-Generator-Video-walkthrough.gif)
-  
-🎥 The full movie file showing functionality of the application can be found [here](https://drive.google.com/file/d/1ppFvJoMvkTC01rvJdJLRzyCLLlDj1_F6/view)
+🎥 The full movie file showing functionality of the application can be found [here](https://drive.google.com/file/d/1HGWoRG9r9rLWlBM2oubRxRkJ_oT5wlXw/view)
   
 ## User Story
   
